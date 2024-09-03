@@ -1,0 +1,41 @@
+name: ecommerce_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.6
+  flutter_svg: ^1.0.3
+  cached_network_image: ^3.2.0
+  google_nav_bar: ^5.0.6
+  provider: ^6.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/images/nike.jpeg
+    - lib/images/shoe1.jpeg
+    - lib/images/shoe2.jpeg
+    - lib/images/shoe3.jpeg
+    - lib/images/shoe4.jpeg
+    - lib/images/shoe5.jpeg
+    - lib/images/shoe6.jpeg
+    - lib/images/shoe7.jpeg
+    - lib/images/shoe8.jpeg
+    # Ajoutez ici toutes vos images supplémentaires, par exemple :
+    # - images/another_image.png

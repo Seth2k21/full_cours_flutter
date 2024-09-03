@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244594581534",
+    "project_id": "authentication-fb86e",
+    "storage_bucket": "authentication-fb86e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244594581534:android:63187906868b798f254e0f",
+        "android_client_info": {
+          "package_name": "com.example.authentification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuvszEgBIl-aPthCzBSHpIi6ytPB1LW4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
